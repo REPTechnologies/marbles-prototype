@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 15, 2013, 9:54:20 AM
+    Author     : Huy Nguyen
+*/
+
+form .counter{
+	position:absolute;
+	right:0;
+	top:0;
+	font-size:20px;
+	font-weight:bold;
+	color:#ccc;
+	}
+form .warning{color:#600;}	
+form.exceeded{color:#e00;}
